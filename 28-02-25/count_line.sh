@@ -1,0 +1,1 @@
+wc -l example.txt
